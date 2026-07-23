@@ -1,0 +1,26 @@
+** Drc report for 02_Buzzer.kicad_pcb **
+** Created on 2026-07-21T12:46:49+0530 **
+
+** Found 4 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(136.7500 mm, 97.5000 mm): Rectangle on Edge.Cuts
+    @(170.3150 mm, 102.5300 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(136.7500 mm, 97.5000 mm): Rectangle on Edge.Cuts
+    @(167.5550 mm, 110.3700 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(136.7500 mm, 97.5000 mm): Rectangle on Edge.Cuts
+    @(167.5550 mm, 107.7200 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(136.7500 mm, 97.5000 mm): Rectangle on Edge.Cuts
+    @(167.5550 mm, 105.1800 mm): Segment of J1 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
