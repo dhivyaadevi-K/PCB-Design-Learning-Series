@@ -5,7 +5,7 @@ A beginner-friendly PCB project designed in KiCad 9 to practice driving a relay 
 Part of my **PCB Design Learning Series**, where I design and document circuits from basic to advanced using KiCad.
 
 
-## Tools
+## Software Used
 
 Designed in **KiCad 9**
 
