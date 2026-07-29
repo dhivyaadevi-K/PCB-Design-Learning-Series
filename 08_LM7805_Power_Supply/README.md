@@ -65,7 +65,7 @@ U1 (LM7805, TO-220 package) takes an unregulated DC input voltage (VR_IN) and ou
 ![Schematic](Images/Schematic.png)
 
 ### PCB Layout
-![PCB Layout](Images/PCB Layout.png)
+![PCB Layout](Images/PCB_Layout.png)
 
 ### 3D View
 ![3D View - Front](Images/3D_Front.png)
