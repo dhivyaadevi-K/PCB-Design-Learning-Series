@@ -4,6 +4,11 @@ A beginner-friendly PCB project designed in KiCad 9 to practice building a volta
 
 Part of my **PCB Design Learning Series**, where I design and document circuits from basic to advanced using KiCad.
 
+
+## Software Used
+
+Designed in **KiCad 9**
+
 ## Overview
 
 U1A (one comparator inside the LM393 package) compares an external INPUT signal (pin 2, inverting input) against an adjustable reference voltage set by potentiometer RV1 (pin 3, non-inverting input). Since the LM393 has an open-collector output, R2 (10k) acts as a pull-up resistor on the output line. The output also drives an LED (D1) through R1 (330 Ω) as a visual indicator, and is broken out to J3 for external use.
@@ -70,7 +75,3 @@ U1A (one comparator inside the LM393 package) compares an external INPUT signal 
 ### 3D View
 ![3D View - Front](Images/3D_Front.png)
 ![3D View - Back](Images/3D_Back.png)
-
-## Tools
-
-Designed in **KiCad 9**.
